@@ -1,1 +1,1 @@
-print("Moans")
+print("Mns")
